@@ -57,7 +57,7 @@ Ran an Instagram-based custom jersey brand end to end: sourcing, cost control, p
 
 ## 📚 Coursework
 
-Database · Web Programming · Mobile App Development · IT Infrastructure · Data Structures · Statistical Analysis I–II · Statistical Theory I–II · Sample Survey Design
+Database · Machine Learning · Data Warehouse · Data Acquisition and Preparation · Web Programming · Mobile App Development · IT Infrastructure · Data Structures · Statistical Analysis I–II · Statistical Theory I–II · Sample Survey Design
 
 ## 📫 Let's connect
 
